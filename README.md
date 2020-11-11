@@ -3,10 +3,12 @@ Genbank_investigation.ipynb contains main code.
 
 lepta_popset.gb contains sample popset of 5 matches to query.
 
-[Biopython documentation](http://biopython.org/DIST/docs/tutorial/Tutorial.html)
+Additional resources:
 
-[A nice quckstart guide](http://www.bioinformatics.org/bradstuff/bp/tut/Tutorial002.html)
+* [Biopython documentation](http://biopython.org/DIST/docs/tutorial/Tutorial.html)
 
-[blast tutorial](https://www.tutorialspoint.com/biopython/biopython_overview_of_blast.htm)
+* [A nice quckstart guide](http://www.bioinformatics.org/bradstuff/bp/tut/Tutorial002.html)
 
-[biopython seq class](https://biopython.org/wiki/Seq)
+* [blast tutorial](https://www.tutorialspoint.com/biopython/biopython_overview_of_blast.htm)
+
+* [biopython seq class](https://biopython.org/wiki/Seq)
