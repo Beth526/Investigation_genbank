@@ -1,7 +1,7 @@
 # Investigation_genbank
-Genbank_investigation.ipynb contains main code.
+*Genbank_investigation.ipynb* file contains main code.
 
-lepta_popset.gb contains sample popset of 5 matches to query.
+*lepta_popset.gb* file contains sample popset of 5 matches to query.
 
 Additional resources:
 
