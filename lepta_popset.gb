@@ -1,0 +1,539 @@
+LOCUS       AF190503                1641 bp    DNA     linear   INV 26-JUL-2016
+DEFINITION  Leptasterias aequalis haplotype X cytochrome oxidase subunit I
+            (COI) gene, partial cds; tRNA-Arg gene, complete sequence; and NADH
+            dehydrogenase subunit 4L (ND4L) gene, partial cds; mitochondrial
+            genes for mitochondrial products.
+ACCESSION   AF190503
+VERSION     AF190503.2
+KEYWORDS    .
+SOURCE      mitochondrion Leptasterias aequalis (Leptasterias sp. LSU#I-304)
+  ORGANISM  Leptasterias aequalis
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Asterozoa;
+            Asteroidea; Forcipulatacea; Forcipulatida; Asteriidae;
+            Leptasterias.
+REFERENCE   1  (bases 1 to 1641)
+  AUTHORS   Hrincevich,A.W., Rocha-Olivares,A. and Foltz,D.W.
+  TITLE     Phylogenetic analysis of molecular lineages in a species-rich
+            subgenus of sea stars (Leptasterias subgenus Hexasterias)
+  JOURNAL   Am. Zool. 40, 365-374 (2000)
+REFERENCE   2  (bases 1 to 1641)
+  AUTHORS   Hrincevich,A.W., Rocha-Olivares,A. and Foltz,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-SEP-1999) Biological Sciences, Louisiana State
+            University, South Campus Drive, Baton Rouge, LA 70803-1715, USA
+REFERENCE   3  (bases 1 to 1641)
+  AUTHORS   Hrincevich,A.W., Rocha-Olivares,A. and Foltz,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAY-2001) Biological Sciences, Louisiana State
+            University, South Campus Drive, Baton Rouge, LA 70803-1715, USA
+  REMARK    Sequence update by submitter
+COMMENT     On Jan 15, 2002 this sequence version replaced AF190503.1.
+FEATURES             Location/Qualifiers
+     source          1..1641
+                     /organism="Leptasterias aequalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="frozen tissue voucher I-304, Louisiana
+                     State Univ. Mus. of Nat. Sci."
+                     /db_xref="taxon:136981"
+                     /haplotype="X"
+                     /note="collection ID BR-05;
+                     authority: Leptasterias aequalis (Stimpson, 1862);
+                     synonym: Leptasterias sp. LSU#I-304"
+     gene            <1..1320
+                     /gene="COI"
+     CDS             <1..1320
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAF85655.2"
+                     /translation="GNWLIPLMIGAPDMAFPRMNNMSFWLIPPSFLLLLASAGVESGA
+                     GTGWTIYPPLSSGLAHAGGSVDLAIFSLHLAGASSILASINFITTIINMRTPGMSFDR
+                     LPLFVWSVFVTAFLLLLSLPVLAGAITMLLTDRNVNTTFFDPAGGGDPILFQHLFWFF
+                     GHPEVYILILPGFGMISHVIAHYAGKNEPFGYLGMVYAIISIGILGFLVWAHHMFTVG
+                     MDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGSNLRWDTPLLWALGFVFLFTIGGLT
+                     GVVLANSSIDIILHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGVSLHPLWSKV
+                     HFAVMFVGVNLTFFPQHFLGLAGMPRRYSDYPDAYTLWNTISSIGSTISLIATLIFLF
+                     LIWEAFSTKRIPRPPEFSSSSLEWQYTLFPPSHHTFNETPSTVYLIK"
+     tRNA            1321..1388
+                     /product="tRNA-Arg"
+                     /note="codon recognized: CGA"
+                     /anticodon=(pos:1350..1352,aa:Arg,seq:cga)
+     gene            1389..>1641
+                     /gene="ND4L"
+     CDS             1389..>1641
+                     /gene="ND4L"
+                     /codon_start=1
+                     /transl_except=(pos:1389..1391,aa:Met)
+                     /transl_table=9
+                     /product="NADH dehydrogenase subunit 4L"
+                     /protein_id="AAL61887.1"
+                     /translation="MSSYIIVIISIFYLGILGILLNRLHLLSVLLCLELLLISLFIGF
+                     VILSLNLSDNILLLNNLILLTLSACEASAGLSLMVALSRT"
+ORIGIN      
+        1 ggtaactgac ttattcctct tatgattgga gcccccgata tggcattccc ccgaatgaat
+       61 aaaatgagct tttgacttat ccccccatca ttcttactcc tcttagcttc tgctggagta
+      121 gaaagaggag ctggtactgg atgaacaatt tatccccctt tatctagagg attagcccac
+      181 gctggaggat cggtagatct tgctatcttt tctcttcatt tagcaggagc ttcttctatt
+      241 ttagcttcta ttaaatttat tactacaatt ataaatatgc gaactcccgg catgtctttt
+      301 gaccgacttc ccctatttgt ctgatcagtt tttgttactg cctttttact acttctttct
+      361 cttcctgtat tagccggagc aattacaatg ttattaacag accgaaaagt aaaaaccact
+      421 ttctttgatc ctgctggagg aggagaccca attctctttc aacacctatt ttggtttttt
+      481 gggcatcccg aagtatatat cctcatatta cctggatttg gaatgatttc tcacgttata
+      541 gctcattacg ccggtaagaa tgaacctttt ggttaccttg gtatggtcta tgcaattatt
+      601 tctattggaa tattaggatt cctcgtatga gcccatcaca tgtttactgt aggaatggat
+      661 gtagacaccc gagcctattt taccgccgcc acaatgataa tagctgtccc tacaggaatt
+      721 aaggtattta gatgaatggc caccttgcaa ggcagtaaat tacgatgaga tacaccactt
+      781 ctctgagcat taggtttcgt atttttattt acaattggag gattaacagg agtagttcta
+      841 gctaattctt ccattgatat aatattacat gatacctact atgttgtagc ccactttcat
+      901 tacgtattat ccatgggagc agtatttgct atcttcgcag gatttaccca ctgatttcct
+      961 ttattctcag gagtgagctt gcaccctcta tgaagaaagg ttcactttgc agtaatgttt
+     1021 gtaggtgtaa aattaacctt ttttccccaa cactttctcg gattagctgg aatgcctcgt
+     1081 cgttattcag actaccctga tgcctatacc ctgtgaaata ctatatcttc cataggttcc
+     1141 actatttctt taatagctac tttaattttt ctatttctta tatgagaagc tttttctact
+     1201 aagcgaatcc cccgtcctcc ggaattttct tcctcttctc tagagtgaca atacacatta
+     1261 tttccccctt ctcaccatac ctttaacgaa accccttcta ctgtttacct aattaagtaa
+     1321 aaagctaatt taaataaaat acttgatttc gacttaagat attttggtaa ttaccccaaa
+     1381 gcttttatat ttcctcctat attatagtta ttataagaat tttttattta ggtattttag
+     1441 gaattctcct taaacgcctt cacctcctct ctgttctttt atgtttagaa cttttattga
+     1501 tatccctatt tattggtttt gttatacttt cattaaaact ttctgataat atactccttc
+     1561 ttaataaact aatcctccta actttatctg cctgtgaagc cagggctgga ctctctttaa
+     1621 tggttgctct ctcccgaacc c
+//
+
+LOCUS       AF190502                1641 bp    DNA     linear   INV 26-JUL-2016
+DEFINITION  Leptasterias hexactis haplotype W cytochrome oxidase subunit I
+            (COI) gene, partial cds; tRNA-Arg gene, complete sequence; and NADH
+            dehydrogenase subunit 4L (ND4L) gene, partial cds; mitochondrial
+            genes for mitochondrial products.
+ACCESSION   AF190502
+VERSION     AF190502.2
+KEYWORDS    .
+SOURCE      mitochondrion Leptasterias hexactis (Leptasterias sp. LSU#I-303)
+  ORGANISM  Leptasterias hexactis
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Asterozoa;
+            Asteroidea; Forcipulatacea; Forcipulatida; Asteriidae;
+            Leptasterias.
+REFERENCE   1  (bases 1 to 1641)
+  AUTHORS   Hrincevich,A.W., Rocha-Olivares,A. and Foltz,D.W.
+  TITLE     Phylogenetic analysis of molecular lineages in a species-rich
+            subgenus of sea stars (Leptasterias subgenus Hexasterias)
+  JOURNAL   Am. Zool. 40, 365-374 (2000)
+REFERENCE   2  (bases 1 to 1641)
+  AUTHORS   Hrincevich,A.W., Rocha-Olivares,A. and Foltz,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-SEP-1999) Biological Sciences, Louisiana State
+            University, South Campus Drive, Baton Rouge, LA 70803-1715, USA
+REFERENCE   3  (bases 1 to 1641)
+  AUTHORS   Hrincevich,A.W., Rocha-Olivares,A. and Foltz,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAY-2001) Biological Sciences, Louisiana State
+            University, South Campus Drive, Baton Rouge, LA 70803-1715, USA
+  REMARK    Sequence update by submitter
+COMMENT     On Jan 15, 2002 this sequence version replaced AF190502.1.
+FEATURES             Location/Qualifiers
+     source          1..1641
+                     /organism="Leptasterias hexactis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="frozen tissue voucher I-303, Louisiana
+                     State Univ. Mus. of Nat. Sci."
+                     /db_xref="taxon:136941"
+                     /haplotype="W"
+                     /note="collection ID CA-34;
+                     authority: Leptasterias hexactis (Stimpson, 1862);
+                     synonym: Leptasterias sp. LSU#I-303"
+     gene            <1..1320
+                     /gene="COI"
+     CDS             <1..1320
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAF85654.2"
+                     /translation="GNWLIPLMIGAPDMAFPRMNNMSFWLIPPSFLLLLASAGVESGA
+                     GTGWTIYPPLSSGLAHAGGSVDLAIFSLHLAGASSILASINFITTIINMRTPGMSFDR
+                     LPLFVWSVFVTAFLLLLSLPVLAGAITMLLTDRNVNTTFFDPAGGGDPILFQHLFWFF
+                     GHPEVYILILPGFGMISHVIAHYAGKNEPFGYLGMVYAIISIGILGFLVWAHHMFTVG
+                     MDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGSNLRWDTPLLWALGFVFLFTIGGLT
+                     GVVLANSSIDIILHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGVSLHPLWGKV
+                     HFAVMFVGVNLTFFPQHFLGLAGMPRRYSDYPDAYTLWNTVSSIGSTISLIATLIFLF
+                     LIWEAFSTKRIPRPPEFSSSSLEWQYTSFPPSHHTFNETPSTVYLIK"
+     tRNA            1321..1388
+                     /product="tRNA-Arg"
+                     /note="codon recognized: CGA"
+                     /anticodon=(pos:1350..1352,aa:Arg,seq:cga)
+     gene            1389..>1641
+                     /gene="ND4L"
+     CDS             1389..>1641
+                     /gene="ND4L"
+                     /codon_start=1
+                     /transl_except=(pos:1389..1391,aa:Met)
+                     /transl_table=9
+                     /product="NADH dehydrogenase subunit 4L"
+                     /protein_id="AAL61886.1"
+                     /translation="MSSYITVTISIFYLGILGIILNRLHLLSILLCLELLLISLFIGF
+                     VILSLNLSDNILLFNNLILLTLSACEASAGLSLMVALSRT"
+ORIGIN      
+        1 ggtaactggc ttatacctct tatgattgga gcccccgata tggcattccc ccgaatgaat
+       61 aaaatgagct tttgactcat tcccccatca tttttacttc tcttagcttc tgctggagta
+      121 gaaagaggag ctggcactgg atgaacaatt tatccccctt tatctagagg attagcccac
+      181 gctggaggat ctgtagatct tgctatcttt tctcttcatt tagcaggagc ttcttctatt
+      241 ttagcttcta ttaaatttat tactacaatt ataaatatgc gaacacctgg catgtctttt
+      301 gaccgacttc ccctatttgt ctgatcagtt tttgtcactg cctttttact acttctttct
+      361 cttcctgtat tagccggagc aattacaatg ttattaacag accgaaaagt aaaaaccact
+      421 ttctttgatc ctgctggagg gggagaccct atcctctttc aacacctatt ttggtttttt
+      481 ggacatcccg aagtatatat cctcatctta cctggattcg gaatgatttc tcacgttata
+      541 gctcattacg cgggtaagaa tgaacctttt ggataccttg gtatggtata tgcaattatt
+      601 tctattggaa tcttaggatt cctagtatga gctcatcaca tgtttactgt aggaatggat
+      661 gtagacaccc gagcctactt caccgccgcc acaatgataa tagctgtccc tacaggaatt
+      721 aaggtattta gatgaatggc taccttgcaa ggcagtaaat tacgatgaga tacaccactt
+      781 ctctgagcat taggtttcgt atttttattt acaattggag gattaacagg agtagttcta
+      841 gctaattctt ctattgatat aatattacat gatacctact atgttgtagc ccactttcat
+      901 tacgtattat ccatgggtgc agtatttgct atcttcgcag gatttaccca ctgatttcct
+      961 ttattctcag gagtaagctt gcaccctcta tgaggaaagg tccactttgc agtaatgttt
+     1021 gtaggtgtaa aattaacctt ttttccccaa cactttctag gattagctgg aatgcctcgt
+     1081 cgctattcag actaccctga tgcttatacc ttgtgaaata ctgtatcttc cataggttcc
+     1141 actatttctt taatagctac tttaattttt ctatttctta tatgagaagc tttttctact
+     1201 aagcgaatcc cccgtccccc ggaattttct tcctcttctc tagaatgaca atacacatca
+     1261 tttcctcctt ctcaccatac ctttaacgag accccttcta ctgtttacct aattaagtaa
+     1321 aaagctaatt taaataaaat acttgatttc gacttaagat attttggtaa taaccccaaa
+     1381 gcttttatat ttcctcctat ataacagtta ctataagaat tttttattta ggaattttag
+     1441 gaattatcct taaacgcctt cacctactct ctattctttt atgtttagaa cttttactga
+     1501 tatccctatt tattggtttt gttatacttt cattaaaact ttctgataat atacttcttt
+     1561 ttaataaact aattctccta actctatctg cctgtgaagc cagggctgga ctctctttaa
+     1621 tggttgctct ctcccgaacc c
+//
+
+LOCUS       AF162100                1641 bp    DNA     linear   INV 26-JUL-2016
+DEFINITION  Leptasterias aequalis haplotype L cytochrome oxidase subunit I
+            (COI) gene, partial cds; tRNA-Arg gene, complete sequence; and NADH
+            dehydrogenase subunit 4L (ND4L) gene, partial cds; mitochondrial
+            genes for mitochondrial products.
+ACCESSION   AF162100 U95071
+VERSION     AF162100.2
+KEYWORDS    .
+SOURCE      mitochondrion Leptasterias aequalis (Leptasterias sp. 'haplotype
+            L')
+  ORGANISM  Leptasterias aequalis
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Asterozoa;
+            Asteroidea; Forcipulatacea; Forcipulatida; Asteriidae;
+            Leptasterias.
+REFERENCE   1  (bases 1 to 1641)
+  AUTHORS   Hrincevich,A.W., Rocha-Olivares,A. and Foltz,D.W.
+  TITLE     Phylogenetic analysis of molecular lineages in a species-rich
+            subgenus of sea stars (Leptasterias subgenus Hexasterias)
+  JOURNAL   Am. Zool. 40, 365-374 (2000)
+REFERENCE   2  (bases 1 to 1641)
+  AUTHORS   Hrincevich,A.W. and Foltz,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-1997) Zoology and Physiology, Louisiana State
+            University, South Campus Drive, Baton Rouge, LA 70803-1715, USA
+REFERENCE   3  (bases 1 to 1641)
+  AUTHORS   Hrincevich,A.W., Rocha-Olivares,A. and Foltz,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JUN-1999) Biological Sciences, Louisiana State
+            University, South Campus Drive, Baton Rouge, LA 70803-1715, USA
+REFERENCE   4  (bases 1 to 1641)
+  AUTHORS   Hrincevich,A.W., Rocha-Olivares,A. and Foltz,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAY-2001) Biological Sciences, Louisiana State
+            University, South Campus Drive, Baton Rouge, LA 70803-1715, USA
+  REMARK    Sequence update by submitter
+COMMENT     On Jan 15, 2002 this sequence version replaced AF162100.1.
+FEATURES             Location/Qualifiers
+     source          1..1641
+                     /organism="Leptasterias aequalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="frozen tissue voucher LSUMNS I290; dry
+                     tissue voucher LACM 1997-165.001"
+                     /db_xref="taxon:136981"
+                     /haplotype="L"
+                     /note="collection ID = AS-10;
+                     authority: Leptasterias aequalis (Stimpson, 1862);
+                     synonym: Leptasterias sp. 'haplotype L'"
+     gene            <1..1320
+                     /gene="COI"
+     CDS             <1..1320
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAF28751.2"
+                     /translation="GNWLIPLMIGAPDMAFPRMNNMSFWLIPPSFLLLLASAGVESGA
+                     GTGWTIYPPLSSGLAHAGGSVDLAIFSLHLAGASSILASINFITTIINMRTPGMSFDR
+                     LPLFVWSVFVTAFLLLLSLPVLAGAITMLLTDRNVNTTFFDPAGGGDPILFQHLFWFF
+                     GHPEVYILILPGFGMISHVIAHYAGKNEPFGYLGMVYAIISIGILGFLVWAHHMFTVG
+                     MDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGSNLRWETPLLWALGFVFLFTIGGLT
+                     GVVLANSSIDIILHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGVSLHPLWSKV
+                     HFAVMFVGVNLTFFPQHFLGLAGMPRRYSDYPDAYTLWNTISSIGSTISLIATLIFLF
+                     LIWEAFSTKSIPRPPEFSSSSLEWQYTSFPPSHHTFNETPSTVYLIK"
+     tRNA            1321..1388
+                     /product="tRNA-Arg"
+                     /note="codon recognized: CGA"
+                     /anticodon=(pos:1350..1352,aa:Arg,seq:cga)
+     gene            1389..>1641
+                     /gene="ND4L"
+     CDS             1389..>1641
+                     /gene="ND4L"
+                     /codon_start=1
+                     /transl_except=(pos:1389..1391,aa:Met)
+                     /transl_table=9
+                     /product="NADH dehydrogenase subunit 4L"
+                     /protein_id="AAL61875.1"
+                     /translation="MSSYIIGIISIFYLGILGILLNRLHLLSVLLCLELLLISLFIGF
+                     VILSLNLSDNILLLNNLILLTLSACEASAGLSLMVALSRT"
+ORIGIN      
+        1 ggtaactgac ttattcctct tatgattgga gcccccgata tggcattccc ccgaatgaat
+       61 aaaatgagct tttgacttat ccccccatca ttcttactcc tcttagcttc tgctggagta
+      121 gaaagaggag ctggtactgg atgaacaatt tatcctcctt tatctagagg attagcccac
+      181 gctggaggat cggtagatct tgctatcttt tctcttcatt tagcaggagc ttcttctatt
+      241 ttagcttcta ttaaatttat tactacaatt ataaatatgc gaactcctgg catgtctttt
+      301 gaccgacttc ccctatttgt ctgatcagtt tttgttactg cctttttact acttctttct
+      361 cttcctgtat tagccggagc aattacaatg ttattaacag accgaaaagt aaaaaccact
+      421 ttttttgatc ctgctggagg aggagaccca attctctttc aacatctatt ttggtttttt
+      481 gggcatcccg aggtctatat cctcatatta cctggatttg gaatgatctc tcacgttata
+      541 gctcattacg ccggtaagaa tgaacctttt ggctaccttg gtatggtcta tgcaattatt
+      601 tctattggaa tcttaggatt cctcgtatga gcccatcaca tgtttactgt aggaatggat
+      661 gtagacaccc gagcctattt taccgccgcc acaatgataa tagctgttcc tacaggaatt
+      721 aaggtattta gatgaatggc caccttgcaa ggcagtaaat tacgatgaga gacaccactc
+      781 ctctgagcat taggtttcgt atttttattt acaattggag gattaacagg tgtagttcta
+      841 gctaattctt ccattgatat aatattacat gatacttact atgttgtagc ccactttcat
+      901 tacgtattat ccatgggagc agtatttgct atctttgcag gatttaccca ctgatttccc
+      961 ttattctcag gagtaagctt gcaccctcta tgaagaaagg ttcactttgc agtaatgttt
+     1021 gtaggtgtaa aattaacctt ctttccccaa cactttctag gattagctgg aatgcctcgt
+     1081 cgttattcag actaccctga tgcctatacc ctgtgaaata ctatatcttc cataggttcc
+     1141 actatttctt taatagcgac tttaattttt ctatttctta tatgagaagc tttttctact
+     1201 aagagaatcc cccgtcctcc ggaattttct tcctcttctc tagagtgaca atacacatca
+     1261 tttcctcctt ctcaccacac ctttaacgaa accccttcta ctgtttacct aattaagtaa
+     1321 aaagctaatt taaataaaat acttgatttc gacttaagat attttggtaa ttaccccaaa
+     1381 gcttttatat ttcctcctat attataggta ttataagaat tttttattta ggtattttag
+     1441 gaattctcct taaacgcctt cacctcctct ctgttctttt atgtttagaa cttttattga
+     1501 tatccctatt tattggtttt gttatacttt cattaaaact ttctgataat atactccttc
+     1561 ttaataaact aatcctccta actttatctg cctgtgaagc cagggctgga ctttctttaa
+     1621 tggttgctct ctcccgaacc c
+//
+
+LOCUS       AF162097                1643 bp    DNA     linear   INV 26-JUL-2016
+DEFINITION  Leptasterias aleutica haplotype I cytochrome oxidase subunit I
+            (COI) gene, partial cds; tRNA-Arg gene, complete sequence; and NADH
+            dehydrogenase subunit 4L (ND4L) gene, partial cds; mitochondrial
+            genes for mitochondrial products.
+ACCESSION   AF162097 U95069
+VERSION     AF162097.2
+KEYWORDS    .
+SOURCE      mitochondrion Leptasterias aleutica (Leptasterias sp. 'haplotype
+            I')
+  ORGANISM  Leptasterias aleutica
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Asterozoa;
+            Asteroidea; Forcipulatacea; Forcipulatida; Asteriidae;
+            Leptasterias.
+REFERENCE   1  (bases 1 to 1643)
+  AUTHORS   Hrincevich,A.W., Rocha-Olivares,A. and Foltz,D.W.
+  TITLE     Phylogenetic analysis of molecular lineages in a species-rich
+            subgenus of sea stars (Leptasterias subgenus Hexasterias)
+  JOURNAL   Am. Zool. 40, 365-374 (2000)
+REFERENCE   2  (bases 1 to 1643)
+  AUTHORS   Hrincevich,A.W. and Foltz,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-1997) Zoology and Physiology, Louisiana State
+            University, South Campus Drive, Baton Rouge, LA 70803-1715, USA
+REFERENCE   3  (bases 1 to 1643)
+  AUTHORS   Hrincevich,A.W., Rocha-Olivares,A. and Foltz,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JUN-1999) Biological Sciences, Louisiana State
+            University, South Campus Drive, Baton Rouge, LA 70803-1715, USA
+REFERENCE   4  (bases 1 to 1643)
+  AUTHORS   Hrincevich,A.W., Rocha-Olivares,A. and Foltz,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAY-2001) Biological Sciences, Louisiana State
+            University, South Campus Drive, Baton Rouge, LA 70803-1715, USA
+  REMARK    Sequence update by submitter
+COMMENT     On Jan 15, 2002 this sequence version replaced AF162097.1.
+FEATURES             Location/Qualifiers
+     source          1..1643
+                     /organism="Leptasterias aleutica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="frozen tissue voucher I-287, Louisiana
+                     State Univ. Mus. of Nat. Sci.; dry tissue voucher LACM
+                     1993-175.001, Los Angeles County Museum"
+                     /db_xref="taxon:136986"
+                     /haplotype="I"
+                     /note="collection ID = AA-38;
+                     authority: Leptasterias aleutica (Fisher, 1930); synonym:
+                     Leptasterias sp. 'haplotype I'"
+     gene            <1..1320
+                     /gene="COI"
+     CDS             <1..1320
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAF28748.2"
+                     /translation="GNWLIPLMIGAPDMAFPRMNNMSFWLIPPSFLLLLASAGVESGA
+                     GTGWTIYPPLSSGLAHAGGSVDLAIFSLHLAGASSILASINFITTIINMRTPGMSFDR
+                     LPLFVWSVFVTAFLLLLSLPVLAGAITMLLTDRNVNTTFFDPAGGGDPILFQHLFWFF
+                     GHPEVYILILPGFGMISHVIAHYAGKNEPFGYLGMVYAIISIGILGFLVWAHHMFTVG
+                     MDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGSNLRWDTPLLWALGFVFLFTIGGLT
+                     GVVLANSSIDIILHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGVSLHPLWGKV
+                     HFVVMFVGVNLTFFPQHFLGLAGMPRRYSDYPDAYTLWNTVSSIGSTISLIATIIFLF
+                     LIWEAFSSKRIPHTPEFSSSSLEWQYASFPPSHHTFNETPSTVYLIK"
+     tRNA            1321..1390
+                     /product="tRNA-Arg"
+                     /note="codon recognized: CGA"
+                     /anticodon=(pos:1350..1352,aa:Arg,seq:ttc)
+     gene            1391..>1643
+                     /gene="ND4L"
+     CDS             1391..>1643
+                     /gene="ND4L"
+                     /codon_start=1
+                     /transl_except=(pos:1391..1393,aa:Met)
+                     /transl_table=9
+                     /product="NADH dehydrogenase subunit 4L"
+                     /protein_id="AAL61872.1"
+                     /translation="MSSYITVIISIFYLGILGIILNRLHLLSVLLCLELLLISLFIGF
+                     VILSLNLSDNILLFNNLILLTLSACEASAGLSLMVALSRT"
+ORIGIN      
+        1 ggtaactgac ttattcccct tatgattgga gcccccgata tggcatttcc ccgcatgaat
+       61 aaaatgagct tttgacttat tcccccctca tttttacttc tcttagcttc tgctggagta
+      121 gaaagaggag ctggcactgg atgaacaatt tatcctcctt tatctagagg attagcccat
+      181 gctgggggat ccgtagatct tgctatcttt tctcttcatt tagcaggtgc ttcttctatt
+      241 ttagcttcta ttaaatttat tactacaatt ataaacatgc gaacgcctgg catgtctttt
+      301 gaccgacttc ctctatttgt ctgatcagtt ttcgttactg cctttttatt acttctttct
+      361 ctccctgtat tagccggagc aattacaatg ttattaacag accgaaaagt aaaaaccact
+      421 ttctttgacc ctgctggagg aggggaccca attctctttc aacacctatt ctggtttttt
+      481 ggccatcccg aagtatatat tcttatctta cctggatttg gaatgatttc tcacgttata
+      541 gctcattacg caggtaagaa tgaacctttt ggatacttag gaatggtcta cgcaattatt
+      601 tctattggga tattaggatt cctcgtatga gcccatcaca tgtttactgt aggaatggat
+      661 gtagacaccc gagcctactt caccgccgcc acaatgatta tagctgtccc tacagggatt
+      721 aaggtattta gatgaatggc taccttacaa ggtagtaaat tacgatgaga cacaccactt
+      781 ctctgagcat taggttttgt gtttttattt acaattggag gattaacagg tgtagtccta
+      841 gctaattctt ctattgatat aatactgcat gatacctact atgttgtagc tcactttcat
+      901 tacgtattat ccatgggagc agtatttgct atcttcgcag gatttaccca ctgatttcct
+      961 ttattctcag gagtcagctt gcaccctcta tgaggaaagg ttcactttgt agtgatgttt
+     1021 gtaggtgtaa aattaacctt ttttccccag cactttctag gattagctgg catgcctcgt
+     1081 cgttattcag actatcctga tgcctatacc ctgtgaaaca ccgtatcttc cataggatcc
+     1141 actatttctt taatagctac tataattttt ttatttctta tatgagaagc tttttcttct
+     1201 aagcgaattc cccatacccc cgaattttct tcctcttctc tagaatgaca atatgcatca
+     1261 tttccccctt ctcaccatac ctttaatgag accccttcta ctgtttacct aattaagtaa
+     1321 aaaaagctaa tttaaataaa atacttgatt tcgacttaag atattttggt aacaactcca
+     1381 gagcttttat atttcctcct atataacagt tattataaga attttttatt taggaatttt
+     1441 aggaattatc cttaaacgac ttcacctact ctccgttctt ttatgtttag aacttttatt
+     1501 aatatccctc tttattggat ttgttatact ttcattaaaa ctttccgata atatcctact
+     1561 ttttaataaa ctaattctct taactctatc tgcctgtgaa gccagggcgg gactctcttt
+     1621 gatggttgct ctctcccgaa ccc
+//
+
+LOCUS       AF162099                1641 bp    DNA     linear   INV 26-JUL-2016
+DEFINITION  Leptasterias aequalis haplotype K cytochrome oxidase subunit I
+            (COI) gene, partial cds; tRNA-Arg gene, complete sequence; and NADH
+            dehydrogenase subunit 4L (ND4L) gene, partial cds; mitochondrial
+            genes for mitochondrial products.
+ACCESSION   AF162099 U95070
+VERSION     AF162099.2
+KEYWORDS    .
+SOURCE      mitochondrion Leptasterias aequalis (Leptasterias sp. 'haplotype
+            K')
+  ORGANISM  Leptasterias aequalis
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Asterozoa;
+            Asteroidea; Forcipulatacea; Forcipulatida; Asteriidae;
+            Leptasterias.
+REFERENCE   1  (bases 1 to 1641)
+  AUTHORS   Hrincevich,A.W., Rocha-Olivares,A. and Foltz,D.W.
+  TITLE     Phylogenetic analysis of molecular lineages in a species-rich
+            subgenus of sea stars (Leptasterias subgenus Hexasterias)
+  JOURNAL   Am. Zool. 40, 365-374 (2000)
+REFERENCE   2  (bases 1 to 1641)
+  AUTHORS   Hrincevich,A.W. and Foltz,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-1997) Zoology and Physiology, Louisiana State
+            University, South Campus Drive, Baton Rouge, LA 70803-1715, USA
+REFERENCE   3  (bases 1 to 1641)
+  AUTHORS   Hrincevich,A.W., Rocha-Olivares,A. and Foltz,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JUN-1999) Biological Sciences, Louisiana State
+            University, South Campus Drive, Baton Rouge, LA 70803-1715, USA
+REFERENCE   4  (bases 1 to 1641)
+  AUTHORS   Hrincevich,A.W., Rocha-Olivares,A. and Foltz,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAY-2001) Biological Sciences, Louisiana State
+            University, South Campus Drive, Baton Rouge, LA 70803-1715, USA
+  REMARK    Sequence update by submitter
+COMMENT     On Jan 15, 2002 this sequence version replaced AF162099.1.
+FEATURES             Location/Qualifiers
+     source          1..1641
+                     /organism="Leptasterias aequalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="frozen tissue voucher I-289, Louisiana
+                     State Univ. Mus. of Nat. Sci."
+                     /db_xref="taxon:136981"
+                     /haplotype="K"
+                     /note="collection ID = SS-34;
+                     authority: Leptasterias aequalis (Stimpson, 1862);
+                     synonym: Leptasterias sp. 'haplotype K'"
+     gene            <1..1320
+                     /gene="COI"
+     CDS             <1..1320
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAF28750.2"
+                     /translation="GNWLIPLMIGAPDMAFPRMNNMSFWLIPPSFLLLLASAGVESGA
+                     GTGWTIYPPLSSGLAHAGGSVDLAIFSLHLAGASSILASINFITTIINMRTPGMSFDR
+                     LPLFVWSVFVTAFLLLLSLPVLAGAITMLLTDRNVNTTFFDPAGGGDPILFQHLFWFF
+                     GHPEVYILILPGFGMISHVIAHYAGKNEPFGYLGMVYAIISIGILGFLVWAHHMFTVG
+                     MDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGSNLRWETPLLWALGFVFLFTIGGLT
+                     GVVLANSSIDIILHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGVSLHPLWSKV
+                     HFAVMFVGVNLTFFPQHFLGLAGMPRRYSDYPDAYTLWNTISSIGSTISLIATLIFLF
+                     LIWEAFSTKRIPRPPEFSSSSLEWQYTSFPPSHHTFNETPSTVYLIK"
+     tRNA            1321..1388
+                     /product="tRNA-Arg"
+                     /note="codon recognized: CGA"
+                     /anticodon=(pos:1350..1352,aa:Arg,seq:cga)
+     gene            1389..>1641
+                     /gene="ND4L"
+     CDS             1389..>1641
+                     /gene="ND4L"
+                     /codon_start=1
+                     /transl_except=(pos:1389..1391,aa:Met)
+                     /transl_table=9
+                     /product="NADH dehydrogenase subunit 4L"
+                     /protein_id="AAL61874.1"
+                     /translation="MSSYIIVIISIFYLGILGIILNRLHLLSVLLCLELLLISLFIGF
+                     VILSLNLSDNILLFNNLILLTLSACEASAGLSLMVALSRT"
+ORIGIN      
+        1 ggtaactgac ttattcctct tatgattgga gcccccgata tggcattccc ccgaatgaat
+       61 aaaatgagct tttgacttat ccccccatca tttttactcc tcttagcttc tgctggagta
+      121 gaaagaggag ctggtactgg atgaacaatt tatccccctt tatctagagg attagcccac
+      181 gctggaggat cggtagatct tgctatcttt tctcttcatt tagcaggagc ttcttctatt
+      241 ttagcttcta ttaaatttat tactacaatt ataaatatgc gaactcctgg catgtctttt
+      301 gaccgacttc ccctatttgt ctgatcagtt tttgttactg cctttttact acttctttct
+      361 cttcctgtat tagccggagc aattacaatg ttattaacag accgaaaagt aaaaaccact
+      421 ttttttgatc ctgctggagg gggagaccca attctctttc aacatctatt ttggtttttt
+      481 gggcatcccg aagtatatat cctcatatta cctggatttg gaatgatctc tcacgttata
+      541 gctcattacg ccggtaagaa tgaacctttt ggctaccttg gtatggtcta tgcaattatt
+      601 tctattggaa tcttaggatt cctcgtatga gcccatcaca tgtttactgt aggaatggat
+      661 gtagacaccc gagcctattt taccgccgcc acaatgataa tagctgttcc tacaggaatt
+      721 aaggtattta gatgaatggc caccttgcaa ggcagtaaat tacgatgaga gacaccactc
+      781 ctctgagcat taggtttcgt gtttttattt acaattggag gattaacagg tgtagttcta
+      841 gctaattctt ccattgacat aatattacat gatacttact atgttgtagc ccactttcat
+      901 tacgtattat ccatgggagc agtatttgct atctttgcag gatttaccca ctgatttccc
+      961 ttattctcag gagtaagctt gcaccctcta tgaagaaagg tccactttgc agtaatgttt
+     1021 gtaggtgtaa aattaacctt ttttccccaa cactttctag gattagctgg aatgcctcgt
+     1081 cgttattcag actaccctga tgcctatacc ctgtgaaata ctatatcttc cataggttcc
+     1141 actatttctt taatagctac tttaattttt ctatttctta tatgagaagc tttttctact
+     1201 aagcgaatcc cccgtcctcc ggaattttct tcctcttctc tagagtgaca atacacatca
+     1261 tttcctcctt ctcaccatac ctttaacgaa accccttcta ctgtttacct aattaagtaa
+     1321 aaagctaatt taaataaaat acttgatttc gacttaagat attttggtaa ttaccccaaa
+     1381 gcttttatat ttcctcctat attatagtta ttataagaat tttttattta ggtattttag
+     1441 gaattatcct taaacgcctt cacctcctct ctgttctttt atgtttagaa cttttattga
+     1501 tatccctatt tattggtttt gttatacttt cattaaaact ttctgataat atactccttt
+     1561 ttaataaact aatcctccta actttatctg cctgtgaagc cagggctgga ctttctttaa
+     1621 tggttgctct ctcccgaacc c
+//
+
